@@ -25,7 +25,7 @@
     2. You **agree** not to decompile or modify our service in any way. We may take legal steps if we find out about these actions.
     3. You **agree** to contact our technical support before making any purchase.
     4. You **agree** not to use our Service to cause harm to any person/server.
-    5. You **agree** to our Privacy Policy.
+    5. You **agree** to our [Privacy Policy](https://github.com/ProProtection#privacy-policy).
 
 - ## Privacy Policy:
 
