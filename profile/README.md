@@ -39,5 +39,5 @@
 - ### Changes to this Privacy Statement:
   - **The contents of this statement may change at any time, at our discretion, but we will keep you updated**
 
-- ### Contact:
+- ## Contact:
   - You can contact us via the [technical support server](https://discord.gg/CVZ2g38fy4).
