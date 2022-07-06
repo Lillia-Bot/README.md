@@ -1,17 +1,17 @@
-# ProProtection Bot
+# Lillia Bot
 
 - ## Terms of Service:
-  - When we say **“ProProtection”**, **“our service”**, **“we”**, **“us”** and **“our”** in these terms, we mean anything related to our service **"[ProProtection Bot](https://top.gg/bot/861600441430573106)"**.
+  - When we say **“Lillia”**, **“our service”**, **“we”**, **“us”** and **“our”** in these terms, we mean anything related to our service **"Lillia Bot"**.
   
-  - Your use of our service **"[ProProtection Bot](https://top.gg/bot/861600441430573106)"** implies that you agree to the Terms stated on this page, and these Terms will remain in effect while you use the service.
+  - Your use of our service **"Lillia Bot"** implies that you agree to the Terms stated on this page, and these Terms will remain in effect while you use the service.
 
  
 - ### Who we are:
-  - ProProtection is a Discord bot, specialized in security and server management, You can protect your server from any danger, as well as manage it easily.
+  - Lillia is a Discord bot, specialized in music, with high quality sound, easy to use, all music commands you need on bot, supports +700 more sites.
 
 - ### Copyright Material:
   - You're **NOT** suppose to use any of the following by any means without legal permission:
-    - Our name **(“ProProtection”, “PP”, “PPBOT”, etc..)**
+    - Our name **(“Lillia”, etc..)**
     - Our designs **(“Banner”, “Logo”, “Discord Server (channels/roles/ etc..)”, etc..)**
 
 - ### Terms:
@@ -28,13 +28,6 @@
     5. You **agree** to our Privacy Policy.
 
 - ## Privacy Policy:
-
-- ### Stored Data:
-  - **We only collect `Server ID` to build the database to avoid losing your settings in the future.**
-  - **You can delete your server data from our servers just by removing the bot from it.**
-
-- ### Security:
-  - We fully secure all your information and servers and no one can access them in any way.
 
 - ### Changes to this Privacy Statement:
   - **The contents of this statement may change at any time, at our discretion, but we will keep you updated**
